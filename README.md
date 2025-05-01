@@ -1,5 +1,5 @@
-Luke Wilson
-Kenyon College
+Luke Wilson,
+Kenyon College,
 Computing Seminar Spring 2025 Final Project
 
 # Title
