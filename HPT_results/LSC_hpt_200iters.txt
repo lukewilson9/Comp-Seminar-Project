@@ -1,0 +1,7 @@
+
+>>> Starting tuning for LSC at 2025-04-14 16:04:43.114729
+
+
+>>> Error occurred while processing LSC:
+"['label'] not found in axis"
+
