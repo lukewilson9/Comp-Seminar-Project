@@ -43,3 +43,4 @@ Note: All of my hyperparameters from my tuning runs are stored for each subsyste
 
 I cannot provide the neural network code I comprate my classifier code to for my poster, seeing as it is a collaboration for the whole Wade Lab. However, if that is of interest please let me know and we can discuss further! It is of a similar pipeline format.
 
+Furthermore, if you would like the LIGO data I used to run the pipeline yourself, I can provide that aswell!
